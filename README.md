@@ -11,7 +11,7 @@ The images that can be generated from provided txt files:
 <br>
 ![alt_text](https://github.com/samuelHurh/python_rasterizer/blob/main/rasterizer/gray.png?raw=true)
 A gray gradient applied to triangles<br>
-![alt_text](https://github.com/samuelHurh/python_rasterizer/blob/main/rasterizer/smallGap.png?raw=true)
+![alt_text](https://github.com/samuelHurh/python_rasterizer/blob/main/rasterizer/smallgap.png?raw=true)
 A colorful gradient applied to triangles<br>
 ![alt_text](https://github.com/samuelHurh/python_rasterizer/blob/main/rasterizer/smoothcolor.png?raw=true)
 A smoother colorful gradient applied to triangles <br>
